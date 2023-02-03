@@ -1,0 +1,33 @@
+## Apa itu *Version Control System?*
+
+Git dan GitHub merupakan bagian dari *Version Control System*.
+**Version Control System**, disebut juga **revision control system** atau **source code management** adalah sistem yang mengelola sebuah perubahan dari dokumen, program komputer, website dan kumpulan informasi lain.
+*Version control system* adalah sebuah sistem yang menyimpan 'rekaman/***snapshot***' perubahan pada sourcecode.
+*Version Control System* memiliki banyak fungsi, seperti:
+* memungkinkan kita untuk bekerja dengan lebih baik.
+* mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi.
+* memungkinkan kita kembali ke keadaan sebelum perubahan atau yang dapat disebut sebagai ***checkout***\
+Beberapa contoh *VCS* antara lain adalah Git, Subversion, Mercurial, dan CVS.
+Namun dalam video tersebut, yang dibahas hanyalah git saja.
+Menurut wikipedia, Git merupakan sebuah VCS terdistribusi untuk mengelola perubahan file di dalam folder atau dapat disebut ***repository***.
+Riwayat perubahan file disimpan menggunakan serangkaian ***commit***. ***Commit*** merupakan rekaman atau snapshot dari repo kita.
+Dengan Git, kita dapat:
+* menginisialisasi project
+* menambahkan view untuk login dan registrasi
+* membuat controller user
+* membuat model auth
+
+Sedangkan GitHub merupakan layanan cloud untuk menyimpan dan mengelola project/repo Git.
+Istilah mudahnya, GitHub merupakan *instagram*-nya para programmer, di mana mereka dapat menampilkan kode-kode karya mereka yang dapat dilihat dan juga diubah oleh orang lain. 
+Dalam Git dan GitHub terdapat beberapa istilah yang perlu diketahui sebelum membuat repo, seperti ***Branch***, ***Merge***, ***push***, ***pull***, ***hash***, ***clone***, ***remote***. 
+***Branch*** merupakan cabang bebas dari sebuah ***commit***.
+Menambahkan ***commit*** ke repo disebut sebagai ***push***.
+Sedangkan mengambil ***commit*** dari repo disebut sebagai ***pull***.
+Sedangkan ***Merge*** menggabungkan ***Branch***. 
+Terdapat penanda unik pada ***commit*** yang disebut ***hash***.
+Sumber yang memiliki disebut ***remote***.
+kita dapat melakukan ***clone*** atau mengambil repo dari ***remote***.
+
+
+
+
